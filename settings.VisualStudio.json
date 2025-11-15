@@ -1,0 +1,9 @@
+/* Visual Studio Settings File */
+{
+  "environment.tabs.documentTabs.insertRight": true,
+  "environment.tabs.documentTabs.showInvisibleTabsInItalic": true,
+  "environment.tabs.documentTabs.showPinnedTabsInSeparateRow": true,
+  "environment.tabs.pinnedTabs.maintainPinStatus": true,
+  "environment.tabs.documentTabs.layout": "top",
+  "environment.tabs.documentTabs.multiRowTabs": true
+}
